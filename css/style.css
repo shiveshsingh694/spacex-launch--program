@@ -1,0 +1,67 @@
+body {
+  background-color: #eee;
+  margin: 0;
+  padding: 0;
+}
+.space__data .user {
+  background-color: #d0d0d0;
+  padding: 0px;
+  border: solid 1px #ccd0d4;
+  border-radius: 0.3rem;
+  margin: 1rem 0;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+}
+.user img {
+  padding: 10px;
+}
+.details__data {
+  background-color: #fff;
+  padding: 2px 5px;
+}
+.user p {
+  font-size: 14px;
+  margin: 10px 0px;
+}
+.space__launch h2 {
+  margin: 0px;
+  font-size: 24px;
+}
+.space__launch {
+  padding: 10px;
+  background-color: #fff;
+  margin: 0px;
+}
+.filter__section {
+  background-color: #fff;
+}
+.launch__year {
+  text-align: center;
+  margin: 10px 0px;
+}
+.launch__year h2 {
+  font-size: 18px;
+}
+input {
+  width: 80%;
+  height: 20px;
+  border: 1px solid;
+  outline: none;
+  border-radius: 30px;
+  padding: 15px 20px;
+  margin: 0 auto !important;
+  display: block;
+}
+.filter__section .btn {
+  height: 24px;
+  width: 100%;
+  padding: 0px;
+  margin: 5px;
+  color: #000;
+  background-color: #c2e4b0;
+  border-color: #88bb0e;
+}
+.Developed__by p {
+  text-align: center;
+  padding: 20px;
+  background-color: #ddd;
+}
